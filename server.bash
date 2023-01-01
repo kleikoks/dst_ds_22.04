@@ -44,5 +44,5 @@ https://accounts.klei.com/account/game/servers?game=DontStarveTogether # downloa
 cp -a ~/dst_ds_22.04/MyDediServer/ ~/.klei/DoNotStarveTogether/
 
 # run server
-chmod +x ~/startdst.sh
+chmod +x ~/dst_ds_22.04/startdst.sh
 screen -S "dst" .~/dst_ds_22.04/startdst.sh
