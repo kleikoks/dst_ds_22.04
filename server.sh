@@ -42,6 +42,8 @@ https://accounts.klei.com/account/game/servers?game=DontStarveTogether # downloa
 
 # prepare server
 cp -a ~/dst_ds_22.04/MyDediServer/ ~/.klei/DoNotStarveTogether/
+cp ~/dst_ds_22.04/dedicated_server_mods_setup.lua ~/Steam//dstserver/mods/dedicated_server_mods_setup.lua
+cp ~/dst_ds_22.04/dedicated_server_mods_setup.lua ~/Steam//dstserver/mods/modsettings.lua
 
 # run server
 chmod +x ~/dst_ds_22.04/startdst.sh
