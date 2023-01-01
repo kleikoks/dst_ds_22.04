@@ -32,6 +32,17 @@ ssh-keygen -o
 cat ~/.ssh/id_rsa.pub
 git clone git@github.com:kleikoks/dst_ds_22.04.git
 
-# run game
+# run game first time needed
 . ~/Steam/dstserver/bin/dontstarve_dedicated_server_nullrenderer
-screen -S "dst" . ~/Steam/dstserver/bin/dontstarve_dedicated_server_nullrenderer
+screen -S "DST Server" .~/Steam/dstserver/bin64/dontstarve_dedicated_server_nullrenderer_x64
+
+# get the server configs
+https://accounts.klei.com/
+https://accounts.klei.com/account/game/servers?game=DontStarveTogether # download archive
+
+# prepare server
+cp -a ~/dst_ds_22.04/MyDediServer/ ~/.klei/DoNotStarveTogether/
+
+# run server
+chmod +x ~/startdst.sh
+screen -S "dst" .~/dst_ds_22.04/startdst.sh
