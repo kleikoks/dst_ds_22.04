@@ -1,0 +1,18 @@
+*filter
+
+# Allow all loopback (lo0) traffic and reject traffic
+# to localhost that does not originate from lo0.
+-A INPUT -i lo -j ACCEPT
+-A INPUT ! -i lo -s ::1/128 -j REJECT
+
+# Allow ICMP.
+-A INPUT -p icmpv6 -j ACCEPT
+
+# Allow inbound traffic from established connections.
+-A INPUT -m state --state ESTABLISHED -j ACCEPT
+
+# Reject all other inbound.
+-A INPUT -j REJECT
+-A FORWARD -j REJECT
+
+COMMIT
