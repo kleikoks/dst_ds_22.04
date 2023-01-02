@@ -1,6 +1,6 @@
 #!/bin/bash
 
-game_dir="~/Steam/dstserver/bin64"
+game_dir="$HOME/Steam/dstserver/bin64"
 cluster_name="MyDediServer"
 
 run_shared=(./dontstarve_dedicated_server_nullrenderer_x64)
