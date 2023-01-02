@@ -19,8 +19,10 @@ git clone git@github.com:kleikoks/dst_ds_22.04.git
 sudo apt-get install iptables-persistent
 sudo iptables-restore < ~/dst_ds_22.04/v4
 sudo ip6tables-restore < ~/dst_ds_22.04/v6
-sudo dpkg-reconfigure iptables-persistent
 sudo iptables -I INPUT 7 -p udp --sport 10999 --dport 1025:65355 -j ACCEPT
+sudo iptables -I INPUT 7 -p udp --sport 11000 --dport 1025:65355 -j ACCEPT
+sudo iptables -I INPUT 7 -p udp --sport 11001 --dport 1025:65355 -j ACCEPT
+sudo iptables -I INPUT 7 -p udp --sport 10889 --dport 1025:65355 -j ACCEPT
 sudo dpkg-reconfigure iptables-persistent
 
 # install steamcmd
