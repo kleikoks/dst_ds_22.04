@@ -1,13 +1,18 @@
 # add user
-ssh root@139.162.171.189
+ssh root@139.144.181.224
 sudo apt update && yes|sudo apt upgrade
 adduser kleikoks
 adduser kleikoks sudo
 exit
-ssh kleikoks@139.162.171.189
+ssh kleikoks@139.144.181.224
 
 # install dependencies
 sudo apt install screen
+
+# authorize git
+ssh-keygen -o
+cat ~/.ssh/id_rsa.pub
+git clone git@github.com:kleikoks/dst_ds_22.04.git
 
 # firewall configuration
 yes|apt-get install iptables-persistent
@@ -26,11 +31,6 @@ curl -sqL "https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.g
 screen ~/Steam/steamcmd.sh
 force_install_dir ./dstserver
 login oleksiy9164
-
-# authorize git
-ssh-keygen -o
-cat ~/.ssh/id_rsa.pub
-git clone git@github.com:kleikoks/dst_ds_22.04.git
 
 # run game first time needed
 . ~/Steam/dstserver/bin/dontstarve_dedicated_server_nullrenderer
