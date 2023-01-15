@@ -37,7 +37,6 @@ return {
     enabled=true 
   },
   ["workshop-1207269058"]={ configuration_options={  }, enabled=true },
-  ["workshop-1216718131"]={ configuration_options={ clean=true, lang=true, stack=true }, enabled=true },
   ["workshop-1266923888"]={ configuration_options={  }, enabled=true },
   ["workshop-1378549454"]={
     configuration_options={
@@ -48,7 +47,6 @@ return {
       ["MemSpikeFixworkshop-1157975551"]="default",
       ["MemSpikeFixworkshop-1161850231"]="default",
       ["MemSpikeFixworkshop-1207269058"]="default",
-      ["MemSpikeFixworkshop-1216718131"]="default",
       ["MemSpikeFixworkshop-1266923888"]="default",
       ["MemSpikeFixworkshop-1298780476"]="default",
       ["MemSpikeFixworkshop-1505270912"]="default",
@@ -65,7 +63,6 @@ return {
       ["MemSpikeFixworkshop-351325790"]="default",
       ["MemSpikeFixworkshop-352373173"]="default",
       ["MemSpikeFixworkshop-353697884"]="default",
-      ["MemSpikeFixworkshop-362175979"]="default",
       ["MemSpikeFixworkshop-363112314"]="default",
       ["MemSpikeFixworkshop-375850593"]="default",
       ["MemSpikeFixworkshop-375859599"]="default",
@@ -125,7 +122,6 @@ return {
     enabled=true 
   },
   ["workshop-353697884"]={ configuration_options={  }, enabled=true },
-  ["workshop-362175979"]={ configuration_options={ ["Draw over FoW"]="disabled" }, enabled=true },
   ["workshop-375850593"]={ configuration_options={  }, enabled=true },
   ["workshop-375859599"]={
     configuration_options={

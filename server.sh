@@ -1,11 +1,12 @@
 # add user
-ssh root@139.144.181.224
+ssh root@139.162.168.20
 sudo apt update && yes|sudo apt upgrade
 adduser kleikoks
 adduser kleikoks sudo
 exit
-# todo reboot server to remove annoying kernel hint
-ssh kleikoks@139.144.181.224
+# ? if fails
+sudo dpkg --configure -a
+ssh kleikoks@139.162.168.20
 
 # install dependencies
 sudo apt install screen
@@ -19,10 +20,12 @@ git clone git@github.com:kleikoks/dst_ds_22.04.git
 sudo apt-get install iptables-persistent
 sudo iptables-restore < ~/dst_ds_22.04/v4
 sudo ip6tables-restore < ~/dst_ds_22.04/v6
+sudo iptables -I INPUT 7 -p udp --sport 8768 --dport 1025:65355 -j ACCEPT
+sudo iptables -I INPUT 7 -p udp --sport 8769 --dport 1025:65355 -j ACCEPT
+sudo iptables -I INPUT 7 -p udp --sport 10889 --dport 1025:65355 -j ACCEPT
 sudo iptables -I INPUT 7 -p udp --sport 10999 --dport 1025:65355 -j ACCEPT
 sudo iptables -I INPUT 7 -p udp --sport 11000 --dport 1025:65355 -j ACCEPT
 sudo iptables -I INPUT 7 -p udp --sport 11001 --dport 1025:65355 -j ACCEPT
-sudo iptables -I INPUT 7 -p udp --sport 10889 --dport 1025:65355 -j ACCEPT
 sudo dpkg-reconfigure iptables-persistent
 
 # install steamcmd
