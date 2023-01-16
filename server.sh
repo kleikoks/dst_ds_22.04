@@ -1,5 +1,5 @@
 # add user
-ssh root@139.162.168.20
+ssh root@143.42.29.173
 sudo apt update && sudo apt upgrade
 adduser kleikoks
 adduser kleikoks sudo
@@ -7,7 +7,7 @@ adduser kleikoks sudo
 sudo dpkg --configure -a
 # ? or
 sudo kill -9 PID
-ssh kleikoks@139.162.168.20
+ssh kleikoks@143.42.29.173
 
 # install dependencies
 sudo apt install screen
@@ -27,6 +27,8 @@ sudo iptables -I INPUT 7 -p udp --sport 10889 --dport 1025:65355 -j ACCEPT
 sudo iptables -I INPUT 7 -p udp --sport 10999 --dport 1025:65355 -j ACCEPT
 sudo iptables -I INPUT 7 -p udp --sport 11000 --dport 1025:65355 -j ACCEPT
 sudo iptables -I INPUT 7 -p udp --sport 11001 --dport 1025:65355 -j ACCEPT
+sudo iptables -I INPUT 7 -p udp --sport 27018 --dport 1025:65355 -j ACCEPT
+sudo iptables -I INPUT 7 -p udp --sport 27019 --dport 1025:65355 -j ACCEPT
 sudo dpkg-reconfigure iptables-persistent
 
 # install steamcmd
@@ -56,4 +58,7 @@ cp ~/dst_ds_22.04/dedicated_server_mods_setup.lua ~/Steam//dstserver/mods/modset
 # run server
 chmod +x ~/dst_ds_22.04/startdst.sh
 cd ~/dst_ds_22.04/
-screen -S "dst" ./startdst.sh
+screen -S dst ./startdst.sh
+screen -S dst -dm ./startdst.sh
+screen -xr dst
+screen -S dst -X quit
