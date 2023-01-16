@@ -23,23 +23,26 @@
 
 --DisableLocalModWarning()
 
-ForceEnableMod("1378549454")
-ForceEnableMod("445539951")
-ForceEnableMod("1974725370")
-ForceEnableMod("553665029")
-ForceEnableMod("764204839")
-ForceEnableMod("353697884")
-ForceEnableMod("375850593")
-ForceEnableMod("2281925291")
-ForceEnableMod("438293817")
-ForceEnableMod("2256246361")
-ForceEnableMod("758532836")
-ForceEnableMod("378160973")
-ForceEnableMod("1581242057")
-ForceEnableMod("375859599")
-ForceEnableMod("396026892")
-ForceEnableMod("1079538195")
-ForceEnableMod("1266923888")
-ForceEnableMod("2420839895")
-ForceEnableMod("2188103687")
-ForceEnableMod("1207269058")
+
+-- ForceEnableMod("1378549454") -- api
+-- ForceEnableMod("764204839") -- Automatic Health Adjust
+-- ForceEnableMod("353697884") --Craftable Gears For DST
+-- ForceEnableMod("553665029") --DST-SignPlus
+-- ForceEnableMod("375850593") --Extra Equip Slots
+-- ForceEnableMod("2281925291") --Finder Redux
+-- ForceEnableMod("438293817") --Friendly Flingomatics
+-- ForceEnableMod("2256246361") --Fuel-Sharing Ice Flingomatic
+-- ForceEnableMod("758532836") --Global Pause
+-- ForceEnableMod("378160973") --Global Positions
+-- ForceEnableMod("396026892") -- Large Chest
+-- ForceEnableMod("445539951") --Long lasting tent
+-- ForceEnableMod("1079538195") --Moving Box
+-- ForceEnableMod("1974725370") --no extinction
+-- ForceEnableMod("1266923888") --Reliable WX-78
+-- ForceEnableMod("2420839895") --Rope Bridge
+-- ForceEnableMod("666155465") --Show Me (Origin)
+-- ForceEnableMod("1207269058") --Simple Health Bar DST
+
+
+-- ForceEnableMod("2188103687") --Show Me
+-- ForceEnableMod("375859599") --Health Info

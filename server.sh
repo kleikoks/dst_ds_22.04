@@ -1,11 +1,12 @@
 # add user
 ssh root@139.162.168.20
-sudo apt update && yes|sudo apt upgrade
+sudo apt update && sudo apt upgrade
 adduser kleikoks
 adduser kleikoks sudo
-exit
 # ? if fails
 sudo dpkg --configure -a
+# ? or
+sudo kill -9 PID
 ssh kleikoks@139.162.168.20
 
 # install dependencies
@@ -29,7 +30,7 @@ sudo iptables -I INPUT 7 -p udp --sport 11001 --dport 1025:65355 -j ACCEPT
 sudo dpkg-reconfigure iptables-persistent
 
 # install steamcmd
-yes|sudo apt-get install lib32gcc-s1
+sudo apt-get install lib32gcc-s1
 mkdir ~/Steam && cd ~/Steam
 curl -sqL "https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz" | tar zxvf -
 
@@ -39,7 +40,7 @@ force_install_dir ./dstserver
 login oleksiy9164
 app_update 343050
 
-# run game first time needed
+# run game to create configs
 cd ~/Steam/dstserver/bin64/
 screen -S "DST Server" ./dontstarve_dedicated_server_nullrenderer_x64
 
