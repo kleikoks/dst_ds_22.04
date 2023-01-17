@@ -28,8 +28,7 @@
     ForceEnableMod("2420839895") --Rope Bridge
     ForceEnableMod("666155465") --Show Me (Origin)
     ForceEnableMod("1207269058") --Simple Health Bar DST
-    
-    
-    -- ForceEnableMod("2188103687") --Show Me
-    -- ForceEnableMod("375859599") --Health Info
-    
+	ForceEnableMod("1595631294") --Smart minisign
+	ForceEnableMod("2795674138") --wx78 double chargers
+
+    ForceEnableMod("2804492445") --Unbreakable modules

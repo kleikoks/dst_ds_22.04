@@ -28,8 +28,7 @@
 	ServerModSetup("2420839895") --Rope Bridge
 	ServerModSetup("666155465") --Show Me (Origin)
 	ServerModSetup("1207269058") --Simple Health Bar DST
-	
-	
-	-- ServerModSetup("2188103687") --Show Me
-	-- ServerModSetup("375859599") --Health Info
-	
+	ServerModSetup("1595631294") --Smart minisign
+	ServerModSetup("2795674138") --wx78 double chargers
+
+	ServerModSetup("2804492445") --Unbreakable modules
