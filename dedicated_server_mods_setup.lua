@@ -13,7 +13,6 @@
 	ServerModSetup("1378549454") -- api
 	ServerModSetup("764204839") -- Automatic Health Adjust
 	ServerModSetup("353697884") --Craftable Gears For DST
-	ServerModSetup("553665029") --DST-SignPlus
 	ServerModSetup("375850593") --Extra Equip Slots
 	ServerModSetup("2281925291") --Finder Redux
 	ServerModSetup("438293817") --Friendly Flingomatics
@@ -24,11 +23,9 @@
 	ServerModSetup("445539951") --Long lasting tent
 	ServerModSetup("1079538195") --Moving Box
 	ServerModSetup("1974725370") --no extinction
-	ServerModSetup("1266923888") --Reliable WX-78
 	ServerModSetup("2420839895") --Rope Bridge
 	ServerModSetup("666155465") --Show Me (Origin)
 	ServerModSetup("1207269058") --Simple Health Bar DST
 	ServerModSetup("1595631294") --Smart minisign
 	ServerModSetup("2795674138") --wx78 double chargers
-
 	ServerModSetup("2804492445") --Unbreakable modules

@@ -1,13 +1,13 @@
 # add user
-ssh root@143.42.29.173
-sudo apt update && sudo apt upgrade
+ssh root@139.162.134.183
+sudo apt update && yes|sudo apt upgrade
 adduser kleikoks
 adduser kleikoks sudo
 # ? if fails
 sudo dpkg --configure -a
 # ? or
 sudo kill -9 PID
-ssh kleikoks@143.42.29.173
+ssh kleikoks@139.162.134.183
 
 # install dependencies
 sudo apt install screen
@@ -52,8 +52,9 @@ https://accounts.klei.com/account/game/servers?game=DontStarveTogether # downloa
 
 # prepare server
 cp -a ~/dst_ds_22.04/MyDediServer/ ~/.klei/DoNotStarveTogether/
-cp ~/dst_ds_22.04/dedicated_server_mods_setup.lua ~/Steam//dstserver/mods/dedicated_server_mods_setup.lua
-cp ~/dst_ds_22.04/dedicated_server_mods_setup.lua ~/Steam//dstserver/mods/modsettings.lua
+cp ~/dst_ds_22.04/dedicated_server_mods_setup.lua ~/Steam/dstserver/mods/dedicated_server_mods_setup.lua
+cp ~/dst_ds_22.04/modsettings.lua ~/Steam/dstserver/mods/modsettings.lua
+cp ~/dst_ds_22.04/modmain.lua ~/Steam/dstserver/ugc_mods/MyDediServer/Caves/content/322330/2804492445/modmain.lua
 
 # run server
 chmod +x ~/dst_ds_22.04/startdst.sh
