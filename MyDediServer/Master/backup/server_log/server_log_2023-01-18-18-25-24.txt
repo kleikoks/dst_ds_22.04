@@ -1,0 +1,327 @@
+[00:00:00]: PersistRootStorage is now /home/kleikoks/.klei//DoNotStarveTogether/MyDediServer/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 536667
+[00:00:00]: Current time: Wed Jan 18 18:24:27 2023
+
+[00:00:00]: System Name: Linux
+[00:00:00]: Host Name: localhost
+[00:00:00]: Release(Kernel) Version: 5.15.0-47-generic
+[00:00:00]: Kernel Build Timestamp: #51-Ubuntu SMP Thu Aug 11 07:51:15 UTC 2022
+[00:00:00]: Machine Arch: x86_64
+[00:00:00]: Don't Starve Together: 536667 LINUX
+[00:00:00]: Build Date: 1538
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -cluster MyDediServer -monitor_parent_process 2388 -shard Master 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: THREAD - started 'GAClient' (139705673111104)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:01]: Mounting file system databundles/scripts.zip successful.
+[00:00:01]: [Steam] SteamGameServer_Init(10999, 27016)
+[00:00:01]: [Steam] SteamGameServer_Init success
+[00:00:01]: ProfileIndex:6.79
+[00:00:01]: [Connect] PendingConnection::Reset(true)
+[00:00:01]: THREAD - started 'Ping Job Thread' (139705415960128)
+[00:00:01]: Platform: 1
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: Network tick rate: U=15(2), D=0
+[00:00:01]: OnLoadPermissionList: /home/kleikoks/.klei//DoNotStarveTogether/MyDediServer/blocklist.txt (Failure)
+[00:00:01]: OnLoadPermissionList: /home/kleikoks/.klei//DoNotStarveTogether/MyDediServer/adminlist.txt (Failure)
+[00:00:01]: OnLoadUserIdList: /home/kleikoks/.klei//DoNotStarveTogether/MyDediServer/whitelist.txt (Failure)
+[00:00:01]: Token file not found: /home/kleikoks/.klei//DoNotStarveTogether/MyDediServer/cluster_token.txt, success: F, len: 0
+[00:00:01]: Token file not found: /home/kleikoks/.klei//DoNotStarveTogether/MyDediServer/cluster_token.txt, success: F, len: 0
+[00:00:01]: cGame::InitializeOnMainThread
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: THREAD - started 'StreamInput' (139705412806208)
+[00:00:01]: AppVersion::GetArchitecture() x64
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:01]:   taskgrouplist:	default	Together	
+[00:00:01]:   taskgrouplist:	classic	Classic	
+[00:00:01]:   taskgrouplist:	cave_default	Underground	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:01]: Running main.lua
+	
+[00:00:01]: WARNING: Force-enabling mod '1378549454' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '764204839' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '353697884' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '375850593' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '2281925291' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '438293817' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '2256246361' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '758532836' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '378160973' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '396026892' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '445539951' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '1079538195' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '1974725370' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '2420839895' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '666155465' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '1207269058' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '1595631294' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '2795674138' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '2804492445' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: Could not load modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:01]: [Workshop] Item query page 0, size: 19, total size: 19
+[00:00:01]: [Workshop] Item query queued IDs: 1378549454 764204839 353697884 375850593 2281925291 438293817 2256246361 758532836 378160973 396026892 445539951 1079538195 1974725370 2420839895 666155465 1207269058 1595631294 2795674138 2804492445
+[00:00:01]: [Workshop] Item query sent
+[00:00:02]: [Workshop] ItemQuery got this many results: 19, matching: 19
+[00:00:02]: [Workshop] ModQuery got 19 results
+[00:00:02]: [Workshop] ModQuery queued to download IDs: 1378549454 764204839 353697884 375850593 2281925291 438293817 2256246361 758532836 378160973 396026892 445539951 1079538195 1974725370 2420839895 666155465 1207269058 1595631294 2795674138 2804492445
+[00:00:02]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:00:02]: [Workshop] ItemQuery downloading 19 pending mods marked to download
+[00:00:02]: [Workshop] DownloadPublishedFile [0] 1378549454
+[00:00:02]: [Workshop] DownloadPublishedFile [0] 764204839
+[00:00:02]: [Workshop] DownloadPublishedFile [0] 353697884
+[00:00:02]: [Workshop] DownloadPublishedFile [0] 375850593
+[00:00:02]: [Workshop] DownloadPublishedFile [0] 2281925291
+[00:00:02]: [Workshop] DownloadPublishedFile [0] 438293817
+[00:00:02]: [Workshop] DownloadPublishedFile [0] 2256246361
+[00:00:02]: [Workshop] DownloadPublishedFile [0] 758532836
+[00:00:02]: [Workshop] DownloadPublishedFile [0] 378160973
+[00:00:02]: [Workshop] DownloadPublishedFile [0] 396026892
+[00:00:02]: [Workshop] DownloadPublishedFile [0] 445539951
+[00:00:02]: [Workshop] DownloadPublishedFile [0] 1079538195
+[00:00:02]: [Workshop] DownloadPublishedFile [0] 1974725370
+[00:00:02]: [Workshop] DownloadPublishedFile [0] 2420839895
+[00:00:02]: [Workshop] DownloadPublishedFile [0] 666155465
+[00:00:02]: [Workshop] DownloadPublishedFile [0] 1207269058
+[00:00:02]: [Workshop] DownloadPublishedFile [0] 1595631294
+[00:00:02]: [Workshop] DownloadPublishedFile [0] 2795674138
+[00:00:02]: [Workshop] DownloadPublishedFile [0] 2804492445
+[00:00:04]: [Workshop] OnDownloadPublishedFile [1] 1378549454
+[00:00:06]: [Workshop] OnDownloadPublishedFile [1] 764204839
+[00:00:07]: [Workshop] OnDownloadPublishedFile [1] 353697884
+[00:00:07]: [Workshop] ODPF noticed this is a legacy item
+[00:00:07]: [Workshop] ODPF is trying to unpack the mod into folder: /home/kleikoks/Steam/dstserver/ugc_mods/MyDediServer/Master/content/322330/353697884/36358269626394604_legacy.bin
+[00:00:07]: [Workshop] UMFD is now trying to unpack the mod
+[00:00:07]: ... File [modmain.lua]
+[00:00:07]: ... File [modinfo.lua]
+[00:00:07]: ... File [Craftable Gears.xml]
+[00:00:07]: ... File [modicon.png]
+[00:00:07]: ... File [Craftable Gears.tex]
+[00:00:07]: DelDirectory [../mods/workshop-353697884] 0: ok.
+[00:00:07]: cWorkshopMod::UnzipMod ../mods/workshop-353697884
+[00:00:07]: [Workshop] OnDownloadPublishedFile [1] 375850593
+[00:00:07]: [Workshop] ODPF noticed this is a legacy item
+[00:00:07]: [Workshop] ODPF is trying to unpack the mod into folder: /home/kleikoks/Steam/dstserver/ugc_mods/MyDediServer/Master/content/322330/375850593/273967538676883524_legacy.bin
+[00:00:07]: [Workshop] UMFD is now trying to unpack the mod
+[00:00:07]: ... File [modmain.lua]
+[00:00:07]: ... File [modinfo.lua]
+[00:00:07]: ... File [steam-desc.txt]
+[00:00:07]: ... File [preview.tex]
+[00:00:07]: ... File [preview.xml]
+[00:00:07]: ... Directory [images]
+[00:00:07]: ... File [neck.xml]
+[00:00:07]: ... File [back.tex]
+[00:00:07]: ... File [back.xml]
+[00:00:07]: ... File [neck.tex]
+[00:00:07]: DelDirectory [../mods/workshop-375850593/images] 0: ok.
+[00:00:07]: DelDirectory [../mods/workshop-375850593] 0: ok.
+[00:00:07]: cWorkshopMod::UnzipMod ../mods/workshop-375850593
+[00:00:08]: [Workshop] OnDownloadPublishedFile [1] 2281925291
+[00:00:08]: [Workshop] ODPF noticed this is a legacy item
+[00:00:08]: [Workshop] ODPF is trying to unpack the mod into folder: /home/kleikoks/Steam/dstserver/ugc_mods/MyDediServer/Master/content/322330/2281925291/1682619194923109819_legacy.bin
+[00:00:08]: [Workshop] UMFD is now trying to unpack the mod
+[00:00:08]: ... File [main.lua]
+[00:00:08]: ... File [modmain.lua]
+[00:00:08]: ... Directory [scripts]
+[00:00:08]: ... File [modinfo.lua]
+[00:00:08]: ... File [modicon.tex]
+[00:00:08]: ... File [modicon.xml]
+[00:00:08]: ... File [colour_manager.lua]
+[00:00:08]: DelDirectory [../mods/workshop-2281925291/scripts] 0: ok.
+[00:00:08]: DelDirectory [../mods/workshop-2281925291] 0: ok.
+[00:00:08]: cWorkshopMod::UnzipMod ../mods/workshop-2281925291
+[00:00:09]: [Workshop] OnDownloadPublishedFile [1] 438293817
+[00:00:09]: [Workshop] ODPF noticed this is a legacy item
+[00:00:09]: [Workshop] ODPF is trying to unpack the mod into folder: /home/kleikoks/Steam/dstserver/ugc_mods/MyDediServer/Master/content/322330/438293817/37496851961863571_legacy.bin
+[00:00:09]: [Workshop] UMFD is now trying to unpack the mod
+[00:00:09]: ... File [modmain.lua]
+[00:00:09]: ... Directory [scripts]
+[00:00:09]: ... File [modinfo.lua]
+[00:00:09]: ... File [thumb.png]
+[00:00:09]: ... Directory [prefabs]
+[00:00:09]: ... Directory [components]
+[00:00:09]: ... Directory [stategraphs]
+[00:00:09]: ... File [firesuppressor.lua]
+[00:00:09]: DelDirectory [../mods/workshop-438293817/scripts/prefabs] 0: ok.
+[00:00:09]: ... File [friendlyfiredetector.lua]
+[00:00:09]: DelDirectory [../mods/workshop-438293817/scripts/components] 0: ok.
+[00:00:09]: ... File [SGfiresuppressor.lua]
+[00:00:09]: DelDirectory [../mods/workshop-438293817/scripts/stategraphs] 0: ok.
+[00:00:09]: DelDirectory [../mods/workshop-438293817/scripts] 0: ok.
+[00:00:09]: DelDirectory [../mods/workshop-438293817] 0: ok.
+[00:00:09]: cWorkshopMod::UnzipMod ../mods/workshop-438293817
+[00:00:10]: [Workshop] OnDownloadPublishedFile [1] 2256246361
+[00:00:10]: [Workshop] ODPF noticed this is a legacy item
+[00:00:10]: [Workshop] ODPF is trying to unpack the mod into folder: /home/kleikoks/Steam/dstserver/ugc_mods/MyDediServer/Master/content/322330/2256246361/1671358804990425833_legacy.bin
+[00:00:10]: [Workshop] UMFD is now trying to unpack the mod
+[00:00:10]: ... File [modmain.lua]
+[00:00:10]: ... File [modinfo.lua]
+[00:00:10]: ... Directory [images]
+[00:00:10]: ... File [modicon.tex]
+[00:00:10]: ... File [modicon.xml]
+[00:00:10]: DelDirectory [../mods/workshop-2256246361/images] 0: ok.
+[00:00:10]: DelDirectory [../mods/workshop-2256246361] 0: ok.
+[00:00:10]: cWorkshopMod::UnzipMod ../mods/workshop-2256246361
+[00:00:11]: [Workshop] OnDownloadPublishedFile [1] 758532836
+[00:00:11]: [Workshop] ODPF noticed this is a legacy item
+[00:00:11]: [Workshop] ODPF is trying to unpack the mod into folder: /home/kleikoks/Steam/dstserver/ugc_mods/MyDediServer/Master/content/322330/758532836/955228007216243868_legacy.bin
+[00:00:11]: [Workshop] UMFD is now trying to unpack the mod
+[00:00:11]: ... File [modmain.lua]
+[00:00:11]: ... Directory [scripts]
+[00:00:11]: ... File [modinfo.lua]
+[00:00:11]: ... File [README.md]
+[00:00:11]: ... File [modworldgenmain.lua]
+[00:00:11]: ... File [modicon.tex]
+[00:00:11]: ... File [modicon.xml]
+[00:00:11]: ... File [librarymanager.lua]
+[00:00:11]: ... Directory [components]
+[00:00:11]: ... File [shard_globalpause.lua]
+[00:00:11]: ... File [globalpause.lua]
+[00:00:11]: DelDirectory [../mods/workshop-758532836/scripts/components] 0: ok.
+[00:00:11]: DelDirectory [../mods/workshop-758532836/scripts] 0: ok.
+[00:00:11]: DelDirectory [../mods/workshop-758532836] 0: ok.
+[00:00:11]: cWorkshopMod::UnzipMod ../mods/workshop-758532836
+[00:00:12]: [Workshop] OnDownloadPublishedFile [1] 378160973
+[00:00:13]: [Workshop] OnDownloadPublishedFile [1] 396026892
+[00:00:13]: [Workshop] ODPF noticed this is a legacy item
+[00:00:13]: [Workshop] ODPF is trying to unpack the mod into folder: /home/kleikoks/Steam/dstserver/ugc_mods/MyDediServer/Master/content/322330/396026892/107354018521362419_legacy.bin
+[00:00:13]: [Workshop] UMFD is now trying to unpack the mod
+[00:00:13]: Could not open directory [../mods/workshop-396026892] 2 (/home/kleikoks/Steam/dstserver/data)
+[00:00:13]: cWorkshopMod::UnzipMod ../mods/workshop-396026892
+[00:00:14]: [Workshop] OnDownloadPublishedFile [1] 445539951
+[00:00:14]: [Workshop] ODPF noticed this is a legacy item
+[00:00:14]: [Workshop] ODPF is trying to unpack the mod into folder: /home/kleikoks/Steam/dstserver/ugc_mods/MyDediServer/Master/content/322330/445539951/633104874576425292_legacy.bin
+[00:00:14]: [Workshop] UMFD is now trying to unpack the mod
+[00:00:14]: Could not open directory [../mods/workshop-445539951] 2 (/home/kleikoks/Steam/dstserver/data)
+[00:00:14]: cWorkshopMod::UnzipMod ../mods/workshop-445539951
+[00:00:15]: [Workshop] OnDownloadPublishedFile [1] 1079538195
+[00:00:15]: [Workshop] ODPF noticed this is a legacy item
+[00:00:15]: [Workshop] ODPF is trying to unpack the mod into folder: /home/kleikoks/Steam/dstserver/ugc_mods/MyDediServer/Master/content/322330/1079538195/832455290852058235_legacy.bin
+[00:00:15]: [Workshop] UMFD is now trying to unpack the mod
+[00:00:15]: Could not open directory [../mods/workshop-1079538195] 2 (/home/kleikoks/Steam/dstserver/data)
+[00:00:15]: cWorkshopMod::UnzipMod ../mods/workshop-1079538195
+[00:00:16]: [Workshop] OnDownloadPublishedFile [1] 1974725370
+[00:00:16]: [Workshop] ODPF noticed this is a legacy item
+[00:00:16]: [Workshop] ODPF is trying to unpack the mod into folder: /home/kleikoks/Steam/dstserver/ugc_mods/MyDediServer/Master/content/322330/1974725370/1020569817354653703_legacy.bin
+[00:00:16]: [Workshop] UMFD is now trying to unpack the mod
+[00:00:16]: Could not open directory [../mods/workshop-1974725370] 2 (/home/kleikoks/Steam/dstserver/data)
+[00:00:16]: cWorkshopMod::UnzipMod ../mods/workshop-1974725370
+[00:00:17]: [Workshop] OnDownloadPublishedFile [1] 2420839895
+[00:00:20]: [Workshop] OnDownloadPublishedFile [1] 666155465
+[00:00:21]: [Workshop] OnDownloadPublishedFile [1] 1207269058
+[00:00:22]: [Workshop] OnDownloadPublishedFile [1] 1595631294
+[00:00:22]: [Workshop] ODPF noticed this is a legacy item
+[00:00:22]: [Workshop] ODPF is trying to unpack the mod into folder: /home/kleikoks/Steam/dstserver/ugc_mods/MyDediServer/Master/content/322330/1595631294/1306557006405271933_legacy.bin
+[00:00:22]: [Workshop] UMFD is now trying to unpack the mod
+[00:00:22]: Could not open directory [../mods/workshop-1595631294] 2 (/home/kleikoks/Steam/dstserver/data)
+[00:00:22]: cWorkshopMod::UnzipMod ../mods/workshop-1595631294
+[00:00:23]: [Workshop] OnDownloadPublishedFile [1] 2795674138
+[00:00:25]: [Workshop] OnDownloadPublishedFile [1] 2804492445
+[00:00:25]: ModIndex:GetModsToLoad inserting moddir, 	workshop-438293817	
+[00:00:25]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2256246361	
+[00:00:25]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2281925291	
+[00:00:25]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:00:25]: ModIndex:GetModsToLoad inserting moddir, 	workshop-758532836	
+[00:00:25]: ModIndex:GetModsToLoad inserting moddir, 	workshop-445539951	
+[00:00:25]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1974725370	
+[00:00:25]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:25]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[00:00:25]: ModIndex:GetModsToLoad inserting moddir, 	workshop-353697884	
+[00:00:25]: ModIndex:GetModsToLoad inserting moddir, 	workshop-396026892	
+[00:00:25]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:25]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-764204839	
+[00:00:25]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1378549454	
+[00:00:25]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-666155465	
+[00:00:25]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2804492445	
+[00:00:25]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2795674138	
+[00:00:25]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:25]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2420839895	
+[00:00:25]: Could not load mod_config_data/modconfiguration_workshop-438293817_CLIENT	
+[00:00:25]: Loading mod: workshop-438293817 (Friendly Flingomatics) Version:1.0	
+[00:00:25]: Could not load mod_config_data/modconfiguration_workshop-2256246361_CLIENT	
+[00:00:25]: Loading mod: workshop-2256246361 (Fuel-Sharing Ice Flingomatic) Version:1.03	
+[00:00:25]: Could not load mod_config_data/modconfiguration_workshop-2281925291_CLIENT	
+[00:00:25]: Loading mod: workshop-2281925291 (Finder Redux) Version:1.1	
+[00:00:25]: Could not load mod_config_data/modconfiguration_workshop-375850593_CLIENT	
+[00:00:25]: Loading mod: workshop-375850593 (Extra Equip Slots) Version:1.8.0	
+[00:00:25]: Could not load mod_config_data/modconfiguration_workshop-758532836_CLIENT	
+[00:00:25]: Loading mod: workshop-758532836 (Global Pause) Version:1.5.0	
+[00:00:25]: Could not load mod_config_data/modconfiguration_workshop-445539951_CLIENT	
+[00:00:25]: Loading mod: workshop-445539951 (Long Lasting Tent) Version:1.0	
+[00:00:25]: Could not load mod_config_data/modconfiguration_workshop-1974725370_CLIENT	
+[00:00:25]: Loading mod: workshop-1974725370 (No Extinction) Version:1.4.0	
+[00:00:25]: Could not load mod_config_data/modconfiguration_workshop-1595631294_CLIENT	
+[00:00:25]: Loading mod: workshop-1595631294 (Smart Minisign) Version:1.1.5	
+[00:00:25]: Could not load mod_config_data/modconfiguration_workshop-1079538195_CLIENT	
+[00:00:25]: Loading mod: workshop-1079538195 (Moving Box) Version:1.1.1	
+[00:00:25]: Could not load mod_config_data/modconfiguration_workshop-353697884_CLIENT	
+[00:00:25]: Loading mod: workshop-353697884 (Craftable Gears) Version:2.0.7	
+[00:00:25]: Could not load mod_config_data/modconfiguration_workshop-396026892_CLIENT	
+[00:00:25]: Loading mod: workshop-396026892 (Large Chest) Version:1.1.1	
+[00:00:25]: Error: mod isn't known	workshop-1207269058	
+[00:00:25]: [string "scripts/mods.lua"]:503: attempt to index field 'modinfo' (a nil value)
+LUA ERROR stack traceback:
+        scripts/mods.lua(503,1) in function 'LoadMods'
+        scripts/main.lua(360,1) in function 'ModSafeStartup'
+        scripts/main.lua(481,1) in function 'callback'
+        scripts/modindex.lua(103,1) in function 'BeginStartupSequence'
+        scripts/main.lua(480,1) in function 'callback'
+        scripts/modindex.lua(735,1)
+        =[C] in function 'GetPersistentString'
+        scripts/modindex.lua(709,1) in function 'Load'
+        scripts/main.lua(479,1) in main chunk
+[00:00:25]: [string "scripts/mods.lua"]:503: attempt to index field 'modinfo' (a nil value)
+LUA ERROR stack traceback:
+        scripts/mods.lua(503,1) in function 'LoadMods'
+        scripts/main.lua(360,1) in function 'ModSafeStartup'
+        scripts/main.lua(481,1) in function 'callback'
+        scripts/modindex.lua(103,1) in function 'BeginStartupSequence'
+        scripts/main.lua(480,1) in function 'callback'
+        scripts/modindex.lua(735,1)
+        =[C] in function 'GetPersistentString'
+        scripts/modindex.lua(709,1) in function 'Load'
+        scripts/main.lua(479,1) in main chunk	
+[00:00:25]: [string "scripts/mainfunctions.lua"]:1599: variable 'known_error_key' is not declared
+LUA ERROR stack traceback:
+        =[C] in function 'error'
+        scripts/strict.lua(23,1)
+        scripts/mainfunctions.lua(1599,1)
+        =[C] in function 'GetPersistentString'
+        scripts/modindex.lua(709,1) in function 'Load'
+        scripts/main.lua(479,1) in main chunk
+[00:00:25]: DoLuaFile Error: (null)
+[00:00:25]: LuaError but no error string
+[00:00:25]: Error loading main.lua
+[00:00:25]: Failed mSimulation->Reset()
+[00:00:25]: Error during game initialization!
+[00:00:25]: Collecting garbage...
+[00:00:25]: lua_gc took 0.08 seconds
+[00:00:25]: ~ShardLuaProxy()
+[00:00:25]: ~cEventLeaderboardProxy()
+[00:00:25]: ~ItemServerLuaProxy()
+[00:00:25]: ~InventoryLuaProxy()
+[00:00:25]: ~NetworkLuaProxy()
+[00:00:25]: ~SimLuaProxy()
+[00:00:25]: lua_close took 0.04 seconds
+[00:00:25]: CurlRequestManager::ClientThread::Main() complete
+[00:00:25]: HttpClient2 discarded 0 callbacks.
+[00:00:25]: Shutting down

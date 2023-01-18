@@ -42,7 +42,7 @@ force_install_dir ./dstserver
 login oleksiy9164
 app_update 343050
 
-# run game to create configs
+# run game (deprecated)
 cd ~/Steam/dstserver/bin64/
 screen -S "DST Server" ./dontstarve_dedicated_server_nullrenderer_x64
 
@@ -54,7 +54,9 @@ https://accounts.klei.com/account/game/servers?game=DontStarveTogether # downloa
 cp -a ~/dst_ds_22.04/MyDediServer/ ~/.klei/DoNotStarveTogether/
 cp ~/dst_ds_22.04/dedicated_server_mods_setup.lua ~/Steam/dstserver/mods/dedicated_server_mods_setup.lua
 cp ~/dst_ds_22.04/modsettings.lua ~/Steam/dstserver/mods/modsettings.lua
+# after first start
 cp ~/dst_ds_22.04/modmain.lua ~/Steam/dstserver/ugc_mods/MyDediServer/Caves/content/322330/2804492445/modmain.lua
+cp ~/dst_ds_22.04/modmain.lua ~/Steam/dstserver/ugc_mods/MyDediServer/Master/content/322330/2804492445/modmain.lua
 
 # run server
 chmod +x ~/dst_ds_22.04/startdst.sh
@@ -63,3 +65,10 @@ screen -S dst ./startdst.sh
 screen -S dst -dm ./startdst.sh
 screen -xr dst
 screen -S dst -X quit
+
+# saves
+cd ~/dst_ds_22.04/
+cp -T -r ~/.klei/DoNotStarveTogether/MyDediServer/ ~/dst_ds_22.04/MyDediServer/
+git add .
+git commit -m 'saves'
+git push
