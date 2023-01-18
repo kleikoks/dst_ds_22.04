@@ -13,6 +13,8 @@ ssh kleikoks@139.162.134.183
 sudo apt install screen
 
 # authorize git
+git config --global user.email "kleikoks.py@gmail.com"
+git config --global user.name "kleikoks"
 ssh-keygen -o
 cat ~/.ssh/id_rsa.pub
 git clone git@github.com:kleikoks/dst_ds_22.04.git
