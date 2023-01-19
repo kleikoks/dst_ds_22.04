@@ -24,8 +24,14 @@
     ForceEnableMod("1079538195") --Moving Box
     ForceEnableMod("1974725370") --no extinction
     ForceEnableMod("2420839895") --Rope Bridge
-    ForceEnableMod("666155465") --Show Me (Origin)
+    ForceEnableMod("2189004162") --Insight
     ForceEnableMod("1207269058") --Simple Health Bar DST
 	ForceEnableMod("1595631294") --Smart minisign
 	ForceEnableMod("2795674138") --wx78 double chargers
     ForceEnableMod("2804492445") --Unbreakable modules
+    ForceEnableMod("1289779251") --Cherry forest
+    ForceEnableMod("2321974509") --Automatic sorter
+    ForceEnableMod("374550642") --Increased stack size
+    ForceEnableMod("2156905460") --Repair sinkholes
+    
+    

@@ -24,8 +24,12 @@
 	ServerModSetup("1079538195") --Moving Box
 	ServerModSetup("1974725370") --no extinction
 	ServerModSetup("2420839895") --Rope Bridge
-	ServerModSetup("666155465") --Show Me (Origin)
+	ServerModSetup("2189004162") --Insight
 	ServerModSetup("1207269058") --Simple Health Bar DST
 	ServerModSetup("1595631294") --Smart minisign
 	ServerModSetup("2795674138") --wx78 double chargers
 	ServerModSetup("2804492445") --Unbreakable modules
+    ServerModSetup("1289779251") --Cherry forest
+    ServerModSetup("2321974509") --Automatic sorter
+    ServerModSetup("374550642") --Increased stack size
+    ServerModSetup("2156905460") --Repair sinkholes
