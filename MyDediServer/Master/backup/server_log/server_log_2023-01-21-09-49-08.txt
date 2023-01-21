@@ -1,0 +1,165 @@
+[00:00:00]: PersistRootStorage is now /home/kleikoks/.klei//DoNotStarveTogether/MyDediServer/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 538959
+[00:00:00]: Current time: Thu Jan 19 18:05:19 2023
+
+[00:00:00]: System Name: Linux
+[00:00:00]: Host Name: localhost
+[00:00:00]: Release(Kernel) Version: 5.15.0-47-generic
+[00:00:00]: Kernel Build Timestamp: #51-Ubuntu SMP Thu Aug 11 07:51:15 UTC 2022
+[00:00:00]: Machine Arch: x86_64
+[00:00:00]: Don't Starve Together: 538959 LINUX
+[00:00:00]: Build Date: 1599
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -cluster MyDediServer -monitor_parent_process 2836 -shard Master 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: THREAD - started 'GAClient' (140647406417472)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: [Steam] SteamGameServer_Init(11000, 27018)
+[00:00:00]: [Steam] SteamGameServer_Init success
+[00:00:00]: ProfileIndex:5.78
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: THREAD - started 'StreamInput' (140647282488896)
+[00:00:00]: OnLoadPermissionList: /home/kleikoks/.klei//DoNotStarveTogether/MyDediServer/blocklist.txt (Failure)
+[00:00:00]: OnLoadPermissionList: /home/kleikoks/.klei//DoNotStarveTogether/MyDediServer/adminlist.txt (Success)
+[00:00:00]: OnLoadUserIdList: /home/kleikoks/.klei//DoNotStarveTogether/MyDediServer/whitelist.txt (Failure)
+[00:00:00]: Token retrieved from: /home/kleikoks/.klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:00]: Token retrieved from: /home/kleikoks/.klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: AppVersion::GetArchitecture() x64
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:00]:   taskgrouplist:	default	Together	
+[00:00:00]:   taskgrouplist:	classic	Classic	
+[00:00:00]:   taskgrouplist:	cave_default	Underground	
+[00:00:00]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:00]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:01]: Running main.lua
+	
+[00:00:01]: WARNING: Force-enabling mod '1378549454' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '764204839' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '353697884' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '375850593' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '2281925291' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '438293817' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '2256246361' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '758532836' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '378160973' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '396026892' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '445539951' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '1079538195' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '1974725370' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '2420839895' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '2189004162' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '1207269058' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '1595631294' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '2795674138' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '2804492445' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '1289779251' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '2321974509' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '374550642' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: WARNING: Force-enabling mod '2156905460' from modsettings.lua! If you are not developing a mod, please use the in-game menu instead.	
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:01]: [Workshop] Item query page 0, size: 23, total size: 23
+[00:00:01]: [Workshop] Item query queued IDs: 1378549454 764204839 353697884 375850593 2281925291 438293817 2256246361 758532836 378160973 396026892 445539951 1079538195 1974725370 2420839895 2189004162 1207269058 1595631294 2795674138 2804492445 1289779251 2321974509 374550642 2156905460
+[00:00:01]: [Workshop] Item query sent
+[00:00:01]: [Workshop] ItemQuery got this many results: 23, matching: 23
+[00:00:01]: [Workshop] ModQuery got 23 results
+[00:00:01]: [Workshop] ModQuery already have IDs: {5.1.43,1378549454} {1.0.998,764204839} {2.0.7,353697884} {1.8.0,375850593} {1.1,2281925291} {1.0,438293817} {1.03,2256246361} {1.5.0,758532836} {1.7.4,378160973} {1.1.1,396026892} {1.0,445539951} {1.1.1,1079538195} {1.4.0,1974725370} {1.12,2420839895} {3.4.5,2189004162} {2.16,1207269058} {1.1.5,1595631294} {1.0.3,2795674138} {1.0,2804492445} {1.6-pre33g,1289779251} {1.0.2,2321974509} {1.62,374550642} {1.3.4,2156905460}
+[00:00:01]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:00:01]: [Workshop] ItemQuery finished downloading everything
+[00:00:01]: SUCCESS: Loaded modoverrides.lua	
+[00:00:01]: modoverrides.lua enabling workshop-374550642	
+[00:00:01]: modoverrides.lua enabling workshop-1378549454	
+[00:00:01]: modoverrides.lua enabling workshop-353697884	
+[00:00:01]: modoverrides.lua enabling workshop-2321974509	
+[00:00:01]: modoverrides.lua enabling workshop-378160973	
+[00:00:01]: modoverrides.lua enabling workshop-1207269058	
+[00:00:01]: modoverrides.lua enabling workshop-2189004162	
+[00:00:01]: modoverrides.lua enabling workshop-2795674138	
+[00:00:01]: modoverrides.lua enabling workshop-2281925291	
+[00:00:01]: modoverrides.lua enabling workshop-764204839	
+[00:00:01]: modoverrides.lua enabling workshop-1289779251	
+[00:00:01]: modoverrides.lua enabling workshop-2256246361	
+[00:00:01]: modoverrides.lua enabling workshop-758532836	
+[00:00:01]: modoverrides.lua enabling workshop-445539951	
+[00:00:01]: modoverrides.lua enabling workshop-375850593	
+[00:00:01]: modoverrides.lua enabling workshop-1974725370	
+[00:00:01]: modoverrides.lua enabling workshop-1595631294	
+[00:00:01]: modoverrides.lua enabling workshop-396026892	
+[00:00:01]: modoverrides.lua enabling workshop-2156905460	
+[00:00:01]: modoverrides.lua enabling workshop-438293817	
+[00:00:01]: modoverrides.lua enabling workshop-2804492445	
+[00:00:01]: modoverrides.lua enabling workshop-2420839895	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-438293817	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2256246361	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2281925291	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-758532836	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-445539951	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1974725370	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-374550642	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1595631294	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1079538195	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-353697884	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-396026892	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1378549454	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1289779251	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2321974509	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-378160973	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-1207269058	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2420839895	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2156905460	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-764204839	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2795674138	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2804492445	
+[00:00:01]: ModIndex:GetModsToLoad inserting forcedmoddir, 	workshop-2189004162	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-438293817_CLIENT	
+[00:00:01]: Loading mod: workshop-438293817 (Friendly Flingomatics) Version:1.0	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-2256246361_CLIENT	
+[00:00:01]: Loading mod: workshop-2256246361 (Fuel-Sharing Ice Flingomatic) Version:1.03	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-2281925291_CLIENT	
+[00:00:01]: Loading mod: workshop-2281925291 (Finder Redux) Version:1.1	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-375850593_CLIENT	
+[00:00:01]: Loading mod: workshop-375850593 (Extra Equip Slots) Version:1.8.0	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-758532836_CLIENT	
+[00:00:01]: Loading mod: workshop-758532836 (Global Pause) Version:1.5.0	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-445539951_CLIENT	
+[00:00:01]: Loading mod: workshop-445539951 (Long Lasting Tent) Version:1.0	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1974725370_CLIENT	
+[00:00:01]: Loading mod: workshop-1974725370 (No Extinction) Version:1.4.0	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-374550642_CLIENT	
+[00:00:01]: Loading mod: workshop-374550642 (Increased Stack size) Version:1.62	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1595631294_CLIENT	
+[00:00:01]: Loading mod: workshop-1595631294 (Smart Minisign) Version:1.1.5	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1079538195_CLIENT	
+[00:00:01]: Loading mod: workshop-1079538195 (Moving Box) Version:1.1.1	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-353697884_CLIENT	
+[00:00:01]: Loading mod: workshop-353697884 (Craftable Gears) Version:2.0.7	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-396026892_CLIENT	
+[00:00:01]: Loading mod: workshop-396026892 (Large Chest) Version:1.1.1	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1378549454_CLIENT	
+[00:00:01]: Loading mod: workshop-1378549454 ([API] Gem Core) Version:5.1.43	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1289779251_CLIENT	
+[00:00:01]: Loading mod: workshop-1289779251 (
