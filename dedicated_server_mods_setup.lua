@@ -33,5 +33,5 @@
     ServerModSetup("2321974509") --Automatic sorter
     ServerModSetup("374550642") --Increased stack size
     ServerModSetup("2156905460") --Repair sinkholes
-    ServerModSetup("2274329081") --Wormhole
+    ServerModSetup("362175979") --Wormhole
 	
