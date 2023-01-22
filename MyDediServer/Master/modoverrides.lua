@@ -39,7 +39,6 @@ return {
       ["MemSpikeFixworkshop-2156905460"]="default",
       ["MemSpikeFixworkshop-2189004162"]="default",
       ["MemSpikeFixworkshop-2256246361"]="default",
-      ["MemSpikeFixworkshop-2274329081"]="default",
       ["MemSpikeFixworkshop-2281925291"]="default",
       ["MemSpikeFixworkshop-2321974509"]="default",
       ["MemSpikeFixworkshop-2351915881"]="default",
@@ -203,18 +202,6 @@ return {
       CONNECTION_RANGE=-1,
       CONNECTION_TURNOFF=true,
       CONNECTION_TURNON=true 
-    },
-    enabled=true 
-  },
-  ["workshop-2274329081"]={
-    configuration_options={
-      ICON_STYLE="new",
-      MINIMAP_ICONS=true,
-      SHOW_NUMBERS="num_",
-      WORLD_COLORS=true,
-      WORLD_NUMBERS=true,
-      WORMHOLE_BORDER=true,
-      WORMHOLE_MARKS_DISABLE=false 
     },
     enabled=true 
   },
