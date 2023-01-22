@@ -1,5 +1,5 @@
 # add user
-ssh root@172.104.244.87
+ssh root@139.144.181.21
 sudo apt update
 yes|sudo apt upgrade
 adduser kleikoks
@@ -8,7 +8,7 @@ adduser kleikoks sudo
 sudo dpkg --configure -a
 # ? or
 sudo kill -9 PID
-ssh kleikoks@172.104.244.87
+ssh kleikoks@139.144.181.21
 
 # install dependencies
 sudo apt install screen

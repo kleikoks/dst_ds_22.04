@@ -33,5 +33,6 @@
     ForceEnableMod("2321974509") --Automatic sorter
     ForceEnableMod("374550642") --Increased stack size
     ForceEnableMod("2156905460") --Repair sinkholes
+    ForceEnableMod("2274329081") --Wormhole
     
     
