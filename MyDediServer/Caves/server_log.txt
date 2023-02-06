@@ -3914,3 +3914,33 @@
 [02:35:25]: Server Autopaused	
 [02:35:53]: Server Unpaused	
 [02:36:03]: Sim paused
+[02:36:34]: Available disk space for save files: 145326 MB
+[02:36:35]: Serializing world: session/1A5ED51F950BDFA6/0000000088
+[02:36:35]: Truncating to snapshot #88...
+[02:36:35]:  - session/1A5ED51F950BDFA6/0000000082
+[02:36:35]:    1 file(s) removed
+[02:36:35]: [Shard] Stopping shard mode
+[02:36:35]: [Steam] SendUserDisconnect for ''
+[02:36:35]: Collecting garbage...
+[02:36:35]: lua_gc took 0.31 seconds
+[02:36:35]: ~ShardLuaProxy()
+[02:36:35]: ~cEventLeaderboardProxy()
+[02:36:35]: ~ItemServerLuaProxy()
+[02:36:35]: ~InventoryLuaProxy()
+[02:36:35]: ~NetworkLuaProxy()
+[02:36:35]: ~SimLuaProxy()
+[02:36:36]: lua_close took 0.56 seconds
+[02:36:36]: Could not unload undefined prefab (cherry_beeguard)
+[02:36:36]: Could not unload undefined prefab (forgedarts)
+[02:36:36]: Could not unload undefined prefab (featheredtunic)
+[02:36:36]: Could not unload undefined prefab (cherryruins_duck_egg_cooked)
+[02:36:36]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[02:36:36]: anim/splash_ocean.zip - 2
+[02:36:36]: ../mods/workshop-1289779251/anim/oceanfishingbobber_chaffinch_build.zip - 4
+[02:36:36]: anim/splash_water_drop.zip - 6
+[02:36:36]: anim/oceanfishing_bobber_ball.zip - 7
+[02:36:36]: ../mods/workshop-1289779251/anim/oceanfishingbobber_catbird_build.zip - 4
+[02:36:36]: anim/oceanfishing_hook.zip - 2
+[02:36:36]: CurlRequestManager::ClientThread::Main() complete
+[02:36:36]: HttpClient2 discarded 0 callbacks.
+[02:36:36]: Shutting down

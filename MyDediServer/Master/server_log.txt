@@ -6067,3 +6067,63 @@
 [02:36:02]: [Shard] (KU_BTykcG9Y) disconnected from [SHDMASTER](1)
 [02:36:03]: Serializing user: session/E46C1C2896B7A644/A7HDRSN9I0J2/0000000088
 [02:36:03]: Sim paused
+[02:36:32]: [P2P] Connection failed for '76561198157319708'
+[02:36:34]: Available disk space for save files: 145326 MB
+[02:36:35]: Serializing world: session/E46C1C2896B7A644/0000000088
+[02:36:35]: Truncating to snapshot #88...
+[02:36:35]:  - session/E46C1C2896B7A644/0000000076
+[02:36:35]:  - session/E46C1C2896B7A644/0000000080
+[02:36:35]:  - session/E46C1C2896B7A644/0000000079
+[02:36:35]:  - session/E46C1C2896B7A644/0000000074
+[02:36:35]:  - session/E46C1C2896B7A644/0000000078
+[02:36:35]:  - session/E46C1C2896B7A644/0000000082
+[02:36:35]:  - session/E46C1C2896B7A644/0000000081
+[02:36:35]:  - session/E46C1C2896B7A644/0000000077
+[02:36:35]:  - session/E46C1C2896B7A644/0000000075
+[02:36:35]:  - session/E46C1C2896B7A644/A7JVUO3RTVTE/0000000082
+[02:36:35]:  - session/E46C1C2896B7A644/A7JVUO3RTVTE/0000000081
+[02:36:35]:  - session/E46C1C2896B7A644/A7JVUO3RTVTE/0000000080
+[02:36:35]:  - session/E46C1C2896B7A644/A7JVUO3RTVTE/0000000079
+[02:36:35]:  - session/E46C1C2896B7A644/A7JVUO3RTVTE/0000000078
+[02:36:35]:  - session/E46C1C2896B7A644/A7JVUO3RTVTE/0000000063
+[02:36:35]:  - session/E46C1C2896B7A644/A7HDRSN9I0J2/0000000082
+[02:36:35]:  - session/E46C1C2896B7A644/A7HDRSN9I0J2/0000000081
+[02:36:35]:  - session/E46C1C2896B7A644/A7HDRSN9I0J2/0000000080
+[02:36:35]:  - session/E46C1C2896B7A644/A7HDRSN9I0J2/0000000079
+[02:36:35]:  - session/E46C1C2896B7A644/A7HDRSN9I0J2/0000000072
+[02:36:35]:  - session/E46C1C2896B7A644/A7LM34IGR3V6/0000000082
+[02:36:35]:  - session/E46C1C2896B7A644/A7LM34IGR3V6/0000000081
+[02:36:35]:  - session/E46C1C2896B7A644/A7LM34IGR3V6/0000000080
+[02:36:35]:  - session/E46C1C2896B7A644/A7LM34IGR3V6/0000000063
+[02:36:35]:    24 file(s) removed
+[02:36:35]:  > session/E46C1C2896B7A644/A7JVUO3RTVTE/savelocation
+[02:36:35]:  > session/E46C1C2896B7A644/A7HDRSN9I0J2/savelocation
+[02:36:35]:  > session/E46C1C2896B7A644/A7LM34IGR3V6/savelocation
+[02:36:35]:    3 file(s) updated
+[02:36:35]: Removing server from lobby
+[02:36:35]: [Shard] Stopping shard mode
+[02:36:35]: [Steam] SendUserDisconnect for ''
+[02:36:35]: Collecting garbage...
+[02:36:36]: lua_gc took 0.41 seconds
+[02:36:36]: ~ShardLuaProxy()
+[02:36:36]: ~cEventLeaderboardProxy()
+[02:36:36]: ~ItemServerLuaProxy()
+[02:36:36]: ~InventoryLuaProxy()
+[02:36:36]: ~NetworkLuaProxy()
+[02:36:36]: ~SimLuaProxy()
+[02:36:36]: Cancelling LuaQueryCallback handle [192]
+[02:36:37]: lua_close took 0.77 seconds
+[02:36:37]: Could not unload undefined prefab (cherry_beeguard)
+[02:36:37]: Could not unload undefined prefab (forgedarts)
+[02:36:37]: Could not unload undefined prefab (featheredtunic)
+[02:36:37]: Could not unload undefined prefab (cherryruins_duck_egg_cooked)
+[02:36:37]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[02:36:37]: anim/splash_ocean.zip - 2
+[02:36:37]: ../mods/workshop-1289779251/anim/oceanfishingbobber_chaffinch_build.zip - 4
+[02:36:37]: anim/splash_water_drop.zip - 6
+[02:36:37]: anim/oceanfishing_bobber_ball.zip - 7
+[02:36:37]: ../mods/workshop-1289779251/anim/oceanfishingbobber_catbird_build.zip - 4
+[02:36:37]: anim/oceanfishing_hook.zip - 2
+[02:36:37]: CurlRequestManager::ClientThread::Main() complete
+[02:36:37]: HttpClient2 discarded 0 callbacks.
+[02:36:37]: Shutting down
