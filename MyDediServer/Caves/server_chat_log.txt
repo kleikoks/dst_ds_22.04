@@ -1,17 +1,20 @@
-[00:09:17]: [Join Announcement] Megisk from UA
-[00:10:59]: [Join Announcement] Ne pedofil a beta-tester
-[00:17:17]: [Leave Announcement] Ne pedofil a beta-tester
-[00:17:54]: [Join Announcement] Ne pedofil a beta-tester
-[00:27:01]: [Join Announcement] ⎠-Ju1cy44 ⎝
-[00:27:32]: [Join Announcement] covetousness
-[00:39:17]: [Leave Announcement] Ne pedofil a beta-tester
-[00:40:05]: [Join Announcement] Ne pedofil a beta-tester
-[01:08:22]: [Death Announcement] Megisk from UA was killed by Boomshroom. He became a spooky ghost!
-[01:08:36]: [Resurrect Announcement] Megisk from UA was resurrected by covetousness.
-[01:25:28]: [Skin Announcement] Megisk from UA hand_workgloves_grey_gainsboro
-[01:25:32]: [Skin Announcement] covetousness feet_webber_ice
-[01:29:20]: [Skin Announcement] Ne pedofil a beta-tester body_polo_green_pistachio
-[01:33:47]: [Leave Announcement] Megisk from UA
-[01:34:07]: [Leave Announcement] covetousness
-[01:34:25]: [Leave Announcement] Ne pedofil a beta-tester
-[01:34:46]: [Leave Announcement] ⎠-Ju1cy44 ⎝
+[00:13:22]: [Join Announcement] covetousness
+[00:13:24]: [Join Announcement] Ne pedofil a beta-tester
+[00:14:20]: [Join Announcement] Megisk from UA
+[00:14:28]: [Death Announcement] covetousness was killed by Depths Worm. She became a spooky ghost!
+[00:15:07]: [Resurrect Announcement] covetousness was resurrected by Megisk from UA.
+[01:07:05]: [Death Announcement] Ne pedofil a beta-tester was killed by Splumonkey. They became a spooky ghost!
+[01:10:18]: [Resurrect Announcement] Ne pedofil a beta-tester was resurrected by covetousness.
+[01:11:23]: [Death Announcement] Ne pedofil a beta-tester was killed by Splumonkey. They became a spooky ghost!
+[01:12:03]: [Resurrect Announcement] Ne pedofil a beta-tester was resurrected by covetousness.
+[01:15:15]: [Death Announcement] Megisk from UA was killed by Shenanigans. He became a spooky ghost!
+[01:23:05]: [Resurrect Announcement] Megisk from UA was resurrected by covetousness.
+[01:24:05]: [Death Announcement] Ne pedofil a beta-tester was killed by Monster Meat. They became a spooky ghost!
+[01:25:12]: [Resurrect Announcement] Ne pedofil a beta-tester was resurrected by Touch Stone.
+[01:29:25]: [Skin Announcement] Megisk from UA legs_pants_basic_blue_sky
+[01:29:38]: [Skin Announcement] Ne pedofil a beta-tester legs_wilson_ice
+[01:38:59]: [Skin Announcement] covetousness feet_ankleboot_black_jet
+[02:23:59]: [Skin Announcement] Megisk from UA webber_beard_formal
+[02:35:08]: [Leave Announcement] covetousness
+[02:35:16]: [Leave Announcement] Megisk from UA
+[02:36:02]: [Leave Announcement] Ne pedofil a beta-tester
