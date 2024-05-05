@@ -1,7 +1,7 @@
 #!/bin/bash
 
-game_dir="$HOME/Steam/dstserver/bin64"
-cluster_name="MyDediServer"
+game_dir="$HOME/dstserver/bin64"
+cluster_name="DedicatedServer"
 
 run_shared=(./dontstarve_dedicated_server_nullrenderer_x64)
 run_shared+=(-cluster "$cluster_name")

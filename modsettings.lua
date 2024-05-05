@@ -22,9 +22,8 @@
     ForceEnableMod("396026892") -- Large Chest
     ForceEnableMod("445539951") --Long lasting tent
     ForceEnableMod("1079538195") --Moving Box
-    ForceEnableMod("1974725370") --no extinction
     ForceEnableMod("2420839895") --Rope Bridge
-    ForceEnableMod("2189004162") --Insight
+--     ForceEnableMod("2189004162") --Insight
     ForceEnableMod("1207269058") --Simple Health Bar DST
 	ForceEnableMod("1595631294") --Smart minisign
 	ForceEnableMod("2795674138") --wx78 double chargers
@@ -33,6 +32,5 @@
     ForceEnableMod("2321974509") --Automatic sorter
     ForceEnableMod("374550642") --Increased stack size
     ForceEnableMod("2156905460") --Repair sinkholes
-    ForceEnableMod("362175979") --Wormhole
-    
+
     
